@@ -1,0 +1,2 @@
+Hello It's me from Linux.
+I want to learn vim text editor.
